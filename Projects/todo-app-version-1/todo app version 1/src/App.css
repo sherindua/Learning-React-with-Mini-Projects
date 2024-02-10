@@ -1,0 +1,26 @@
+.heading{
+  font-size: 80px;
+  font-weight: 700;
+}
+.app-container{
+  width: 50%;
+  margin-left: 25%;
+  min-width: 470px;
+}
+input{
+  width: 100%;
+}
+button{
+  width: 80px;
+}
+.row-container{
+  margin-top: 10px;
+  text-align: left;
+}
+.todo-container{
+  margin-top: 50px;
+  text-align: left;
+}
+.todo-input{
+  min-width: 234px;
+}

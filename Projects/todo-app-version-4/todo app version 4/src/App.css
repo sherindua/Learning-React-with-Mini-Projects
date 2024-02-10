@@ -1,0 +1,14 @@
+.appcontainer{
+  width: 50%;
+  min-width: 50%;
+  margin-left: 25%;
+}
+
+
+button{
+  width: 80px;
+}
+.row-container{
+  margin-top: 10px;
+  text-align: left;
+}
